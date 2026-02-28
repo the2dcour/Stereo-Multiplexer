@@ -1,0 +1,7341 @@
+PROTEL NETLIST 2.0
+[
+DESIGNATOR
+U39
+FOOTPRINT
+SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL
+PARTTYPE
+CD4028BM/TR
+DESCRIPTION
+Voltage - Supply:3V~15V Voltage - Supply:3V~15V Operating Temperature:-40℃~+85℃ Operating Temperature:-40℃~+85℃
+Component Kind
+Standard
+LCSC Part Name
+CMOS BCD 到十进制或二进制到八进制解码器/驱动器
+Supplier Part
+C507166
+Manufacturer
+HGSEMI(华冠)
+Manufacturer Part
+CD4028BM/TR
+Supplier Footprint
+SOIC-16
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CD4028BM%252FTR/520604.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27
+Voltage - Supply
+3V~15V
+Operating Temperature
+-40℃~+85℃
+Description
+Voltage - Supply:3V~15V Voltage - Supply:3V~15V Operating Temperature:-40℃~+85℃ Operating Temperature:-40℃~+85℃
+Symbol
+CD4028BM/TR
+Designator
+U39
+Name
+CD4028BM/TR
+Device
+CD4028BM/TR
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge217
+
+*
+]
+[
+DESIGNATOR
+U33
+FOOTPRINT
+SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL
+PARTTYPE
+LM339DR
+DESCRIPTION
+Number of Channels:QUAD Vos - Input Offset Voltage:2mV Ib - Input Bias Current:25nA Propagation Delay Time:1.3us Input Hysteresis Voltage (Vhys):- Common Mode Rejection Ratio(CMRR):- Voltage - Supply:2V~36V Voltage - Supply:2V~36V Output Type:- Output Typ
+Component Kind
+Standard
+LCSC Part Name
+LM339DR
+Supplier Part
+C7948
+Manufacturer
+TI(德州仪器)
+Manufacturer Part
+LM339DR
+Supplier Footprint
+SOIC-14
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://www.ti.com/cn/lit/gpn/lm339
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOIC-14_L8.6-W3.9-H1.8-LS6.0-P1.27
+Number of Channels
+QUAD
+Vos - Input Offset Voltage
+2mV
+Ib - Input Bias Current
+25nA
+Propagation Delay Time
+1.3us
+Input Hysteresis Voltage (Vhys)
+-
+Common Mode Rejection Ratio(CMRR)
+-
+Voltage - Supply
+2V~36V
+Output Type
+TTL；CMOS
+Rail to Rail
+Rail-to-rail input, Rail-to-rail output
+Quiescent Current per Amplifier
+800uA
+Operating Temperature
+0℃~+70℃
+Description
+Number of Channels:QUAD Vos - Input Offset Voltage:2mV Ib - Input Bias Current:25nA Propagation Delay Time:1.3us Input Hysteresis Voltage (Vhys):- Common Mode Rejection Ratio(CMRR):- Voltage - Supply:2V~36V Voltage - Supply:2V~36V Output Type:- Output Typ
+Symbol
+LM339DR
+Designator
+U33
+Name
+LM339DR
+Device
+LM339DR
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge227
+
+*
+]
+[
+DESIGNATOR
+R57
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R57
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge228
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R59
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R59
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge229
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R60
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R60
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge230
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R65
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R65
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge231
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R69
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R69
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge232
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R71
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R71
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge233
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R73
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R73
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge234
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R74
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R74
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge235
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+U32
+FOOTPRINT
+SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL
+PARTTYPE
+LM339DR
+DESCRIPTION
+Number of Channels:QUAD Vos - Input Offset Voltage:2mV Ib - Input Bias Current:25nA Propagation Delay Time:1.3us Input Hysteresis Voltage (Vhys):- Common Mode Rejection Ratio(CMRR):- Voltage - Supply:2V~36V Voltage - Supply:2V~36V Output Type:- Output Typ
+Component Kind
+Standard
+LCSC Part Name
+LM339DR
+Supplier Part
+C7948
+Manufacturer
+TI(德州仪器)
+Manufacturer Part
+LM339DR
+Supplier Footprint
+SOIC-14
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://www.ti.com/cn/lit/gpn/lm339
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOIC-14_L8.6-W3.9-H1.8-LS6.0-P1.27
+Number of Channels
+QUAD
+Vos - Input Offset Voltage
+2mV
+Ib - Input Bias Current
+25nA
+Propagation Delay Time
+1.3us
+Input Hysteresis Voltage (Vhys)
+-
+Common Mode Rejection Ratio(CMRR)
+-
+Voltage - Supply
+2V~36V
+Output Type
+TTL；CMOS
+Rail to Rail
+Rail-to-rail input, Rail-to-rail output
+Quiescent Current per Amplifier
+800uA
+Operating Temperature
+0℃~+70℃
+Description
+Number of Channels:QUAD Vos - Input Offset Voltage:2mV Ib - Input Bias Current:25nA Propagation Delay Time:1.3us Input Hysteresis Voltage (Vhys):- Common Mode Rejection Ratio(CMRR):- Voltage - Supply:2V~36V Voltage - Supply:2V~36V Output Type:- Output Typ
+Symbol
+LM339DR
+Designator
+U32
+Name
+LM339DR
+Device
+LM339DR
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge236
+
+*
+]
+[
+DESIGNATOR
+R55
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R55
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge237
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R54
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R54
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge248_1
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+Q6
+FOOTPRINT
+SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-2
+PARTTYPE
+2N3904S-RTK/PS
+DESCRIPTION
+Transistor Type: Collector Current (Ic):- Collector-Emitter Breakdown Voltage (Vceo):- Power Dissipation (Pd):- Transition Frequency (fT):- Collector Cut-Off Current (Icbo):- Collector-Emitter Saturation Voltage (VCE(sat)@Ic,Ib):-
+Component Kind
+Standard
+LCSC Part Name
+2N3904S-RTK/PS
+Supplier Part
+C112667
+Manufacturer
+
+Manufacturer Part
+2N3904S-RTK/PS
+Supplier Footprint
+SOT-23
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95
+Transistor Type
+
+Collector Current (Ic)
+-
+Collector-Emitter Breakdown Voltage (Vceo)
+-
+Power Dissipation (Pd)
+-
+Transition Frequency (fT)
+-
+Collector Cut-Off Current (Icbo)
+-
+Collector-Emitter Saturation Voltage (VCE(sat)@Ic,Ib)
+-
+Description
+Transistor Type: Collector Current (Ic):- Collector-Emitter Breakdown Voltage (Vceo):- Power Dissipation (Pd):- Transition Frequency (fT):- Collector Cut-Off Current (Icbo):- Collector-Emitter Saturation Voltage (VCE(sat)@Ic,Ib):-
+Symbol
+2N3904S-RTK/PS
+Designator
+Q6
+Name
+2N3904S-RTK/PS
+Device
+2N3904S-RTK/PS
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge243_1
+
+*
+]
+[
+DESIGNATOR
+R58
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R58
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge244_1
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R56
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R56
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge244_2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+D41
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D41
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge240
+
+*
+]
+[
+DESIGNATOR
+D56
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D56
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge242_2
+
+*
+]
+[
+DESIGNATOR
+D52
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D52
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_33
+
+*
+]
+[
+DESIGNATOR
+D50
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D50
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_34
+
+*
+]
+[
+DESIGNATOR
+D48
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D48
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_35
+
+*
+]
+[
+DESIGNATOR
+D46
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D46
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_36
+
+*
+]
+[
+DESIGNATOR
+D44
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D44
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_37
+
+*
+]
+[
+DESIGNATOR
+D42
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D42
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_38
+
+*
+]
+[
+DESIGNATOR
+D39
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D39
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_39
+
+*
+]
+[
+DESIGNATOR
+D37
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D37
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_40
+
+*
+]
+[
+DESIGNATOR
+R52
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R52
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge231_1
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R53
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R53
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge231_2
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R50
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R50
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge231_3
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R51
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R51
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge231_4
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R63
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R63
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge231_5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R64
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R64
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge231_6
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R61
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R61
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge231_7
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R62
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R62
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge231_8
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+D72
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D72
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_24
+
+*
+]
+[
+DESIGNATOR
+D71
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D71
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_50
+
+*
+]
+[
+DESIGNATOR
+D70
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D70
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_51
+
+*
+]
+[
+DESIGNATOR
+D69
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D69
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_52
+
+*
+]
+[
+DESIGNATOR
+D68
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D68
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_53
+
+*
+]
+[
+DESIGNATOR
+D67
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D67
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_54
+
+*
+]
+[
+DESIGNATOR
+D66
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D66
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_55
+
+*
+]
+[
+DESIGNATOR
+D65
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D65
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge177_56
+
+*
+]
+[
+DESIGNATOR
+D73
+FOOTPRINT
+SOP-16_L9.6-W3.9-P1.27-LS6.0-BL
+PARTTYPE
+S16-4148E3/TR7
+DESCRIPTION
+
+Component Kind
+Standard
+LCSC Part Name
+S16-4148E3/TR7
+Supplier Part
+C21824308
+Manufacturer
+MICROCHIP(美国微芯)
+Manufacturer Part
+S16-4148E3/TR7
+Supplier Footprint
+-
+JLCPCB Part Class
+
+Datasheet
+https://item.szlcsc.com/datasheet/S16-4148E3%252FTR7/23251829.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOP-16_L9.6-W3.9-P1.27-LS6.0-BL
+Description
+
+Symbol
+S16-4148E3/TR7
+Designator
+D73
+Name
+S16-4148E3/TR7
+Device
+S16-4148E3/TR7
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge259
+
+*
+]
+[
+DESIGNATOR
+U28
+FOOTPRINT
+SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL
+PARTTYPE
+NE555DR
+DESCRIPTION
+
+Component Kind
+Standard
+LCSC Part Name
+NE555DR
+Supplier Part
+C7593
+Manufacturer
+TI(德州仪器)
+Manufacturer Part
+NE555DR
+Supplier Footprint
+SOIC-8
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://www.ti.com/cn/lit/gpn/sa555
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOIC-8_L4.9-W3.9-H1.7-LS6.0-P1.27
+Description
+
+Symbol
+NE555DR
+Designator
+U28
+Name
+NE555DR
+Device
+NE555DR
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge158
+
+*
+]
+[
+DESIGNATOR
+C11
+FOOTPRINT
+CAP-SMD_BD6.3-L6.6-W6.6-LS7.6-FD-H6.0
+PARTTYPE
+118EC457
+DESCRIPTION
+Capacitance:10uF Tolerance:±20% Tolerance:±20% Voltage Rating:50V Ripple Current:0.72A@100kHz Equivalent Series Resistance(ESR):12mΩ Lifetime:10000hrs@105℃ Operating Temperature:-55℃~+105℃ Operating Temperature:-55℃~+105℃ Pin Spacing:1.9mm Diameter:6.3mm
+Component Kind
+Standard
+LCSC Part Name
+10uF ±20% 50V
+Supplier Part
+C46528109
+Manufacturer
+KNSCHA(科尼盛)
+Manufacturer Part
+118EC457
+Supplier Footprint
+SMD,D6.3xL6mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/118EC457/48653974.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+Value
+10uF
+Tolerance
+±20%
+Voltage Rating
+50V
+Ripple Current
+0.72A@100kHz
+Equivalent Series Resistance(ESR)
+12mΩ
+Lifetime
+10000hrs@105℃
+Operating Temperature
+-55℃~+105℃
+Pin Spacing
+1.9mm
+Diameter
+6.3mm
+Height - Seated (Max)
+6mm
+Description
+Capacitance:10uF Tolerance:±20% Tolerance:±20% Voltage Rating:50V Ripple Current:0.72A@100kHz Equivalent Series Resistance(ESR):12mΩ Lifetime:10000hrs@105℃ Operating Temperature:-55℃~+105℃ Operating Temperature:-55℃~+105℃ Pin Spacing:1.9mm Diameter:6.3mm
+Symbol
+118EC457
+Designator
+C11
+Name
+10uF
+Device
+118EC457
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge161
+
+*
+]
+[
+DESIGNATOR
+C10
+FOOTPRINT
+CAP-SMD_BD4.0-L4.3-W4.3-LS5.0-FD
+PARTTYPE
+EEEFT1E220AR
+DESCRIPTION
+Capacitance:22uF Tolerance:±20% Tolerance:±20% Voltage Rating:25V Ripple Current:160mA@100kHz Equivalent Series Resistance(ESR):850mΩ@100kHz Diameter:4mm Height - Seated (Max):6.1mm Lifetime:2000hrs@105℃ Operating Temperature:-55℃~+105℃ Operating Temperat
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C401767
+Manufacturer
+PANASONIC(松下)
+Manufacturer Part
+EEEFT1E220AR
+Value
+22uF
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+22uF ±20% 25V
+Supplier Footprint
+SMD,D4xL5.8mm
+Datasheet
+https://item.szlcsc.com/datasheet/EEEFT1E220AR/386695.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+CAP-SMD_L4.3-W4.3-H5.3-LS5.1
+Tolerance
+±20%
+Voltage Rating
+25V
+Ripple Current
+160mA@100kHz
+Equivalent Series Resistance(ESR)
+850mΩ@100kHz
+Diameter
+4mm
+Height - Seated (Max)
+6.1mm
+Lifetime
+2000hrs@105℃
+Operating Temperature
+-55℃~+105℃
+Description
+Capacitance:22uF Tolerance:±20% Tolerance:±20% Voltage Rating:25V Ripple Current:160mA@100kHz Equivalent Series Resistance(ESR):850mΩ@100kHz Diameter:4mm Height - Seated (Max):6.1mm Lifetime:2000hrs@105℃ Operating Temperature:-55℃~+105℃ Operating Temperat
+Symbol
+EEEFT1E220AR
+Designator
+C10
+Name
+22uF
+Device
+EEEFT1E220AR
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge97
+
+*
+]
+[
+DESIGNATOR
+R37
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1000T5E_C17408
+DESCRIPTION
+Type:Thick Film Resistors Resistance: Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃
+Component Kind
+Standard
+LCSC Part Name
+100Ω ±1% 125mW 厚膜电阻
+Supplier Part
+C17408
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1000T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistors
+Value
+100Ω
+Tolerance
+±1%
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature Range
+-55℃~+155℃
+Description
+Type:Thick Film Resistors Resistance: Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃
+Symbol
+0805W8F1000T5E
+Designator
+R37
+Name
+100Ω
+Device
+0805W8F1000T5E_C17408
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge257
+
+*
+]
+[
+DESIGNATOR
+C9
+FOOTPRINT
+C0805
+PARTTYPE
+CL21B103KBANNNC
+DESCRIPTION
+Capacitance:10nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Supplier
+LCSC
+Manufacturer
+SAMSUNG(三星)
+Manufacturer Part
+CL21B103KBANNNC
+Value
+10nF
+Supplier Part
+C1710
+JLCPCB Part Class
+Basic Part
+LCSC Part Name
+10nF ±10% 50V
+Supplier Footprint
+0805
+Datasheet
+https://item.szlcsc.com/datasheet/CL21B103KBANNNC/2062.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+C0805_L2.0-W1.3-H1.3
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Description
+Capacitance:10nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Symbol
+0603B103K500NT
+Designator
+C9
+Name
+10nF
+Device
+CL21B103KBANNNC
+Unique ID
+gge160
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R39
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R39
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge164
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+D55
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D55
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge242_1
+
+*
+]
+[
+DESIGNATOR
+C14
+FOOTPRINT
+C_0805
+PARTTYPE
+100n
+DESCRIPTION
+
+Component Kind
+Standard
+Description
+
+Designator
+C14
+Origin Footprint
+C_0805
+Unique ID
+gge342b67ae202c80d8_17
+Device
+100n
+Symbol
+100n
+Name
+100n
+nameAlias
+Value(F)
+Supplier Part
+
+Supplier
+
+Contributor
+LCEDA_Lib
+spicePre
+C
+spiceSymbolName
+C_RAD-0.1_US
+Manufacturer Part
+
+Convert to PCB
+yes
+Add into BOM
+yes
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+U26
+FOOTPRINT
+CAPPRD350W52D800H1300
+PARTTYPE
+860010674014
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+860010674014
+3D Model Title
+860010674014
+Value
+100uF
+Description
+
+Name
+100uF
+Designator
+U26
+Device
+860010674014
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge258
+
+*
+]
+[
+DESIGNATOR
+R10
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R10
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge102
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+Q1
+FOOTPRINT
+SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-2
+PARTTYPE
+2N3904S-RTK/PS
+DESCRIPTION
+Transistor Type: Collector Current (Ic):- Collector-Emitter Breakdown Voltage (Vceo):- Power Dissipation (Pd):- Transition Frequency (fT):- Collector Cut-Off Current (Icbo):- Collector-Emitter Saturation Voltage (VCE(sat)@Ic,Ib):-
+Component Kind
+Standard
+LCSC Part Name
+2N3904S-RTK/PS
+Supplier Part
+C112667
+Manufacturer
+
+Manufacturer Part
+2N3904S-RTK/PS
+Supplier Footprint
+SOT-23
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95
+Transistor Type
+
+Collector Current (Ic)
+-
+Collector-Emitter Breakdown Voltage (Vceo)
+-
+Power Dissipation (Pd)
+-
+Transition Frequency (fT)
+-
+Collector Cut-Off Current (Icbo)
+-
+Collector-Emitter Saturation Voltage (VCE(sat)@Ic,Ib)
+-
+Description
+Transistor Type: Collector Current (Ic):- Collector-Emitter Breakdown Voltage (Vceo):- Power Dissipation (Pd):- Transition Frequency (fT):- Collector Cut-Off Current (Icbo):- Collector-Emitter Saturation Voltage (VCE(sat)@Ic,Ib):-
+Symbol
+2N3904S-RTK/PS
+Designator
+Q1
+Name
+2N3904S-RTK/PS
+Device
+2N3904S-RTK/PS
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge101
+
+*
+]
+[
+DESIGNATOR
+D5
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D5
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge142
+
+*
+]
+[
+DESIGNATOR
+R9
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R9
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge111
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R11
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R11
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge112
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R3
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1001T5E
+DESCRIPTION
+Type:Thick Film Resistors Resistance:1kΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+1kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17513
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1001T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistors
+Value
+1kΩ
+Tolerance
+±1%
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature Range
+-55℃~+155℃
+Description
+Type:Thick Film Resistors Resistance:1kΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ 
+Symbol
+0603WAF1001T5E
+Designator
+R3
+Name
+1kΩ
+Device
+0805W8F1001T5E
+Unique ID
+gge103
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R2
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1001T5E
+DESCRIPTION
+Type:Thick Film Resistors Resistance:1kΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+1kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17513
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1001T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistors
+Value
+1kΩ
+Tolerance
+±1%
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature Range
+-55℃~+155℃
+Description
+Type:Thick Film Resistors Resistance:1kΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ 
+Symbol
+0603WAF1001T5E
+Designator
+R2
+Name
+1kΩ
+Device
+0805W8F1001T5E
+Unique ID
+gge120
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R5
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R5
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge102_1
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R18
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1001T5E
+DESCRIPTION
+Type:Thick Film Resistors Resistance:1kΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+1kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17513
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1001T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistors
+Value
+1kΩ
+Tolerance
+±1%
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature Range
+-55℃~+155℃
+Description
+Type:Thick Film Resistors Resistance:1kΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ 
+Symbol
+0603WAF1001T5E
+Designator
+R18
+Name
+1kΩ
+Device
+0805W8F1001T5E
+Unique ID
+gge106
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+Q2
+FOOTPRINT
+SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-2
+PARTTYPE
+2N3904S-RTK/PS
+DESCRIPTION
+Transistor Type: Collector Current (Ic):- Collector-Emitter Breakdown Voltage (Vceo):- Power Dissipation (Pd):- Transition Frequency (fT):- Collector Cut-Off Current (Icbo):- Collector-Emitter Saturation Voltage (VCE(sat)@Ic,Ib):-
+Component Kind
+Standard
+LCSC Part Name
+2N3904S-RTK/PS
+Supplier Part
+C112667
+Manufacturer
+
+Manufacturer Part
+2N3904S-RTK/PS
+Supplier Footprint
+SOT-23
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95
+Transistor Type
+
+Collector Current (Ic)
+-
+Collector-Emitter Breakdown Voltage (Vceo)
+-
+Power Dissipation (Pd)
+-
+Transition Frequency (fT)
+-
+Collector Cut-Off Current (Icbo)
+-
+Collector-Emitter Saturation Voltage (VCE(sat)@Ic,Ib)
+-
+Description
+Transistor Type: Collector Current (Ic):- Collector-Emitter Breakdown Voltage (Vceo):- Power Dissipation (Pd):- Transition Frequency (fT):- Collector Cut-Off Current (Icbo):- Collector-Emitter Saturation Voltage (VCE(sat)@Ic,Ib):-
+Symbol
+2N3904S-RTK/PS
+Designator
+Q2
+Name
+2N3904S-RTK/PS
+Device
+2N3904S-RTK/PS
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge108
+
+*
+]
+[
+DESIGNATOR
+R20
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R20
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge107
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R7
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R7
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge109
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R8
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R8
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge110
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R4
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1002T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+LCSC Part Name
+10kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C17414
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1002T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1002T5E/18102.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Symbol
+0603WAF1002T5E
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Designator
+R4
+Name
+10kΩ
+Device
+0805W8F1002T5E
+Unique ID
+gge141
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+D6
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D6
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge116
+
+*
+]
+[
+DESIGNATOR
+D9
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D9
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge113
+
+*
+]
+[
+DESIGNATOR
+D8
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D8
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge114
+
+*
+]
+[
+DESIGNATOR
+D7
+FOOTPRINT
+SOD-123F_L2.7-W1.6-LS3.8-RD
+PARTTYPE
+1N4148W_C81598
+DESCRIPTION
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Component Kind
+Standard
+LCSC Part Name
+1N4148W
+Supplier Part
+C81598
+Manufacturer
+ST(先科)
+Manufacturer Part
+1N4148W
+Supplier Footprint
+SOD-123
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/1N4148W/82750.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+SOD-123F_L2.7-W1.6-LS3.8-RD
+Diode Configuration
+Independent
+Voltage - Forward(Vf@If)
+1V@50mA
+Voltage - DC Reverse(Vr)
+75V
+Current - Rectified
+150mA
+Pd - Power Dissipation
+400mW
+Reverse Leakage Current (Ir)
+1uA@75V
+Reverse Recovery Time (trr)
+4ns
+Operating Junction Temperature Range
+-
+Non-Repetitive Peak Forward Surge Current
+1A
+Description
+Diode Configuration:Independent Voltage - Forward(Vf@If):1V@50mA Voltage - DC Reverse(Vr):75V Current - Rectified:150mA Pd - Power Dissipation:400mW Reverse Leakage Current (Ir):1uA@75V Reverse Recovery Time (trr):4ns Operating Junction Temperature Range:
+Symbol
+1N4148W_C81598
+Designator
+D7
+Name
+1N4148W
+Device
+1N4148W_C81598
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge115
+
+*
+]
+[
+DESIGNATOR
+C4
+FOOTPRINT
+C_0805
+PARTTYPE
+100n
+DESCRIPTION
+
+Component Kind
+Standard
+Description
+
+Designator
+C4
+Origin Footprint
+C_0805
+Unique ID
+gge342b67ae202c80d8_11
+Device
+100n
+Symbol
+100n
+Name
+100n
+nameAlias
+Value(F)
+Supplier Part
+
+Supplier
+
+Contributor
+LCEDA_Lib
+spicePre
+C
+spiceSymbolName
+C_RAD-0.1_US
+Manufacturer Part
+
+Convert to PCB
+yes
+Add into BOM
+yes
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C3
+FOOTPRINT
+C_0805
+PARTTYPE
+100n
+DESCRIPTION
+
+Component Kind
+Standard
+Description
+
+Designator
+C3
+Origin Footprint
+C_0805
+Unique ID
+gge342b67ae202c80d8_10
+Device
+100n
+Symbol
+100n
+Name
+100n
+nameAlias
+Value(F)
+Supplier Part
+
+Supplier
+
+Contributor
+LCEDA_Lib
+spicePre
+C
+spiceSymbolName
+C_RAD-0.1_US
+Manufacturer Part
+
+Convert to PCB
+yes
+Add into BOM
+yes
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C5
+FOOTPRINT
+C_0805
+PARTTYPE
+100n
+DESCRIPTION
+
+Component Kind
+Standard
+Description
+
+Designator
+C5
+Origin Footprint
+C_0805
+Unique ID
+gge342b67ae202c80d8_5
+Device
+100n
+Symbol
+100n
+Name
+100n
+nameAlias
+Value(F)
+Supplier Part
+
+Supplier
+
+Contributor
+LCEDA_Lib
+spicePre
+C
+spiceSymbolName
+C_RAD-0.1_US
+Manufacturer Part
+
+Convert to PCB
+yes
+Add into BOM
+yes
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+U2
+FOOTPRINT
+TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL
+PARTTYPE
+CD4510BPWR
+DESCRIPTION
+Logic Type:Divide-by-10 Direction:Down Counter；Up Counter Voltage - Supply:3V~18V Voltage - Supply:3V~18V Number of Elements:1 Trigger Type:Rising Edge Reset:Asynchronous Timing:Synchronous Count Rate:11MHz Operating Temperature:-55℃~+125℃ Operating Tempe
+Component Kind
+Standard
+LCSC Part Name
+CD4510BPWR
+Supplier Part
+C2862976
+Manufacturer
+TI(德州仪器)
+Manufacturer Part
+CD4510BPWR
+Supplier Footprint
+TSSOP-16
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://www.ti.com/cn/lit/gpn/cd4516b
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+TSSOP-16_L5.0-W4.4-H1.0-LS6.4-P0.65
+Logic Type
+Divide-by-10
+Direction
+Down Counter；Up Counter
+Voltage - Supply
+3V~18V
+Number of Elements
+1
+Trigger Type
+Rising Edge
+Reset
+Asynchronous
+Timing
+Synchronous
+Count Rate
+11MHz
+Operating Temperature
+-55℃~+125℃
+Description
+Logic Type:Divide-by-10 Direction:Down Counter；Up Counter Voltage - Supply:3V~18V Voltage - Supply:3V~18V Number of Elements:1 Trigger Type:Rising Edge Reset:Asynchronous Timing:Synchronous Count Rate:11MHz Operating Temperature:-55℃~+125℃ Operating Tempe
+Symbol
+CD4510BPWR
+Designator
+U2
+Name
+CD4510BPWR
+Device
+CD4510BPWR
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge100
+
+*
+]
+[
+DESIGNATOR
+C20
+FOOTPRINT
+CAP-SMD_BD6.3-L6.6-W6.6-LS7.6-FD-H6.0
+PARTTYPE
+118EC457
+DESCRIPTION
+Capacitance:10uF Tolerance:±20% Tolerance:±20% Voltage Rating:50V Ripple Current:0.72A@100kHz Equivalent Series Resistance(ESR):12mΩ Lifetime:10000hrs@105℃ Operating Temperature:-55℃~+105℃ Operating Temperature:-55℃~+105℃ Pin Spacing:1.9mm Diameter:6.3mm
+Component Kind
+Standard
+LCSC Part Name
+10uF ±20% 50V
+Supplier Part
+C46528109
+Manufacturer
+KNSCHA(科尼盛)
+Manufacturer Part
+118EC457
+Supplier Footprint
+SMD,D6.3xL6mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/118EC457/48653974.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+Value
+10uF
+Tolerance
+±20%
+Voltage Rating
+50V
+Ripple Current
+0.72A@100kHz
+Equivalent Series Resistance(ESR)
+12mΩ
+Lifetime
+10000hrs@105℃
+Operating Temperature
+-55℃~+105℃
+Pin Spacing
+1.9mm
+Diameter
+6.3mm
+Height - Seated (Max)
+6mm
+Description
+Capacitance:10uF Tolerance:±20% Tolerance:±20% Voltage Rating:50V Ripple Current:0.72A@100kHz Equivalent Series Resistance(ESR):12mΩ Lifetime:10000hrs@105℃ Operating Temperature:-55℃~+105℃ Operating Temperature:-55℃~+105℃ Pin Spacing:1.9mm Diameter:6.3mm
+Symbol
+118EC457
+Designator
+C20
+Name
+10uF
+Device
+118EC457
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge156
+
+*
+]
+[
+DESIGNATOR
+C18
+FOOTPRINT
+C_0805
+PARTTYPE
+100n
+DESCRIPTION
+
+Component Kind
+Standard
+Description
+
+Designator
+C18
+Origin Footprint
+C_0805
+Unique ID
+gge342b67ae202c80d8_3
+Device
+100n
+Symbol
+100n
+Name
+100n
+nameAlias
+Value(F)
+Supplier Part
+
+Supplier
+
+Contributor
+LCEDA_Lib
+spicePre
+C
+spiceSymbolName
+C_RAD-0.1_US
+Manufacturer Part
+
+Convert to PCB
+yes
+Add into BOM
+yes
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C24
+FOOTPRINT
+CAP-SMD_BD6.3-L6.6-W6.6-LS7.6-FD-H6.0
+PARTTYPE
+118EC457
+DESCRIPTION
+Capacitance:10uF Tolerance:±20% Tolerance:±20% Voltage Rating:50V Ripple Current:0.72A@100kHz Equivalent Series Resistance(ESR):12mΩ Lifetime:10000hrs@105℃ Operating Temperature:-55℃~+105℃ Operating Temperature:-55℃~+105℃ Pin Spacing:1.9mm Diameter:6.3mm
+Component Kind
+Standard
+LCSC Part Name
+10uF ±20% 50V
+Supplier Part
+C46528109
+Manufacturer
+KNSCHA(科尼盛)
+Manufacturer Part
+118EC457
+Supplier Footprint
+SMD,D6.3xL6mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/118EC457/48653974.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+Value
+10uF
+Tolerance
+±20%
+Voltage Rating
+50V
+Ripple Current
+0.72A@100kHz
+Equivalent Series Resistance(ESR)
+12mΩ
+Lifetime
+10000hrs@105℃
+Operating Temperature
+-55℃~+105℃
+Pin Spacing
+1.9mm
+Diameter
+6.3mm
+Height - Seated (Max)
+6mm
+Description
+Capacitance:10uF Tolerance:±20% Tolerance:±20% Voltage Rating:50V Ripple Current:0.72A@100kHz Equivalent Series Resistance(ESR):12mΩ Lifetime:10000hrs@105℃ Operating Temperature:-55℃~+105℃ Operating Temperature:-55℃~+105℃ Pin Spacing:1.9mm Diameter:6.3mm
+Symbol
+118EC457
+Designator
+C24
+Name
+10uF
+Device
+118EC457
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge157
+
+*
+]
+[
+DESIGNATOR
+C17
+FOOTPRINT
+C_0805
+PARTTYPE
+100n
+DESCRIPTION
+
+Component Kind
+Standard
+Description
+
+Designator
+C17
+Origin Footprint
+C_0805
+Unique ID
+gge342b67ae202c80d8_12
+Device
+100n
+Symbol
+100n
+Name
+100n
+nameAlias
+Value(F)
+Supplier Part
+
+Supplier
+
+Contributor
+LCEDA_Lib
+spicePre
+C
+spiceSymbolName
+C_RAD-0.1_US
+Manufacturer Part
+
+Convert to PCB
+yes
+Add into BOM
+yes
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C16
+FOOTPRINT
+C_0805
+PARTTYPE
+100n
+DESCRIPTION
+
+Component Kind
+Standard
+Description
+
+Designator
+C16
+Origin Footprint
+C_0805
+Unique ID
+gge342b67ae202c80d8_13
+Device
+100n
+Symbol
+100n
+Name
+100n
+nameAlias
+Value(F)
+Supplier Part
+
+Supplier
+
+Contributor
+LCEDA_Lib
+spicePre
+C
+spiceSymbolName
+C_RAD-0.1_US
+Manufacturer Part
+
+Convert to PCB
+yes
+Add into BOM
+yes
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C15
+FOOTPRINT
+C_0805
+PARTTYPE
+100n
+DESCRIPTION
+
+Component Kind
+Standard
+Description
+
+Designator
+C15
+Origin Footprint
+C_0805
+Unique ID
+gge342b67ae202c80d8_16
+Device
+100n
+Symbol
+100n
+Name
+100n
+nameAlias
+Value(F)
+Supplier Part
+
+Supplier
+
+Contributor
+LCEDA_Lib
+spicePre
+C
+spiceSymbolName
+C_RAD-0.1_US
+Manufacturer Part
+
+Convert to PCB
+yes
+Add into BOM
+yes
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+P4
+FOOTPRINT
+HDR-IDC-2.54-2X5P
+PARTTYPE
+IDC Box 2.54mm 2X5P
+DESCRIPTION
+
+Component Kind
+Standard
+Supplier
+LCSC
+Manufacturer
+BOOMELE
+Manufacturer Part
+IDC Box 2.54mm 2X5P
+Supplier Part
+C5665
+Description
+
+Designator
+P4
+Origin Footprint
+HDR-IDC-2.54-2X5P
+Unique ID
+ggecc249e7e8485fc66
+Device
+IDC Box 2.54mm 2X5P
+Symbol
+HDR-IDC-2.54-2X5P
+Name
+HDR-IDC-2.54-2X5P
+image
+//image.lceda.cn/szlcsc/C5665.jpg
+spicePre
+P
+spiceSymbolName
+HDR-IDC-2.54-2X5P copy
+Convert to PCB
+yes
+Add into BOM
+yes
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R49
+FOOTPRINT
+R0805_NEW
+PARTTYPE
+0805W8F100JT5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10Ω Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±200ppm/℃ Temperature Coefficient:±200ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃
+Component Kind
+Standard
+Supplier
+LCSC
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F100JT5E
+Supplier Part
+C17415
+Value
+10Ω
+JLCPCB Part Class
+Basic Part
+LCSC Part Name
+10Ω ±1% 125mW 厚膜电阻
+Supplier Footprint
+0805
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F100JT5E/18103.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±200ppm/℃
+Operating Temperature
+-55℃~+155℃
+Description
+Type:Thick Film Resistor Resistance:10Ω Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±200ppm/℃ Temperature Coefficient:±200ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃
+Symbol
+0805W8F100JT5E
+Designator
+R49
+Name
+10Ω
+Device
+0805W8F100JT5E
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge155
+
+*
+]
+[
+DESIGNATOR
+R48
+FOOTPRINT
+R0805_NEW
+PARTTYPE
+0805W8F100JT5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10Ω Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±200ppm/℃ Temperature Coefficient:±200ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃
+Component Kind
+Standard
+Supplier
+LCSC
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F100JT5E
+Supplier Part
+C17415
+Value
+10Ω
+JLCPCB Part Class
+Basic Part
+LCSC Part Name
+10Ω ±1% 125mW 厚膜电阻
+Supplier Footprint
+0805
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F100JT5E/18103.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±200ppm/℃
+Operating Temperature
+-55℃~+155℃
+Description
+Type:Thick Film Resistor Resistance:10Ω Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±200ppm/℃ Temperature Coefficient:±200ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃
+Symbol
+0805W8F100JT5E
+Designator
+R48
+Name
+10Ω
+Device
+0805W8F100JT5E
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge154
+
+*
+]
+[
+DESIGNATOR
+H4
+FOOTPRINT
+HDR-TH_5P-P2.54-V-M
+PARTTYPE
+KH-2.54PH180-1X5P-L11.5
+DESCRIPTION
+Pin Structure:1x5P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:5P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Component Kind
+Standard
+LCSC Part Name
+1x5P 间距:2.54mm 方针 直插
+Supplier Part
+C2932699
+Manufacturer
+kinghelm(金航标)
+Manufacturer Part
+KH-2.54PH180-1X5P-L11.5
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/KH-2.54PH180-1X5P-L11.5/3278220.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR-TH_5P-P2.54-M-LI-1X5P
+Pin Structure
+1x5P
+Pitch
+2.54mm
+Row Spacing
+-
+Circluar Pins/Square Pins
+Pin Header
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Pins
+5P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Length of Mating Pin
+6mm
+Insulation Height
+2.5mm
+Length of End Connection Pin
+3mm
+Operating Temperature
+-40℃~+105℃
+Color
+Black
+Description
+Pin Structure:1x5P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:5P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Symbol
+KH-2.54PH180-1X5P-L11.5
+Designator
+H4
+Name
+KH-2.54PH180-1X5P-L11.5
+Device
+KH-2.54PH180-1X5P-L11.5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge263
+
+*
+]
+[
+DESIGNATOR
+H8
+FOOTPRINT
+HDR-TH_5P-P2.54-V-M
+PARTTYPE
+KH-2.54PH180-1X5P-L11.5
+DESCRIPTION
+Pin Structure:1x5P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:5P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Component Kind
+Standard
+LCSC Part Name
+1x5P 间距:2.54mm 方针 直插
+Supplier Part
+C2932699
+Manufacturer
+kinghelm(金航标)
+Manufacturer Part
+KH-2.54PH180-1X5P-L11.5
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/KH-2.54PH180-1X5P-L11.5/3278220.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR-TH_5P-P2.54-M-LI-1X5P
+Pin Structure
+1x5P
+Pitch
+2.54mm
+Row Spacing
+-
+Circluar Pins/Square Pins
+Pin Header
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Pins
+5P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Length of Mating Pin
+6mm
+Insulation Height
+2.5mm
+Length of End Connection Pin
+3mm
+Operating Temperature
+-40℃~+105℃
+Color
+Black
+Description
+Pin Structure:1x5P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:5P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Symbol
+KH-2.54PH180-1X5P-L11.5
+Designator
+H8
+Name
+KH-2.54PH180-1X5P-L11.5
+Device
+KH-2.54PH180-1X5P-L11.5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge267
+
+*
+]
+[
+DESIGNATOR
+H14
+FOOTPRINT
+HDR-TH_3P-P2.54-V-M
+PARTTYPE
+KH-2.54PH180-1X3P-L11.5
+DESCRIPTION
+Pin Structure:1x3P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:3P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Component Kind
+Standard
+LCSC Part Name
+1x3P 间距:2.54mm 方针 直插
+Supplier Part
+C2932698
+Manufacturer
+kinghelm(金航标)
+Manufacturer Part
+KH-2.54PH180-1X3P-L11.5
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/KH-2.54PH180-1X3P-L11.5/3278219.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR-TH_3P-P2.54-M-LI-1X3P
+Pin Structure
+1x3P
+Pitch
+2.54mm
+Row Spacing
+-
+Circluar Pins/Square Pins
+Pin Header
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Pins
+3P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Length of Mating Pin
+6mm
+Insulation Height
+2.5mm
+Length of End Connection Pin
+3mm
+Operating Temperature
+-40℃~+105℃
+Color
+Black
+Description
+Pin Structure:1x3P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:3P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Symbol
+KH-2.54PH180-1X3P-L11.5
+Designator
+H14
+Name
+KH-2.54PH180-1X3P-L11.5
+Device
+KH-2.54PH180-1X3P-L11.5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge273
+
+*
+]
+[
+DESIGNATOR
+H18
+FOOTPRINT
+HDR-TH_2P-P2.54-V-M
+PARTTYPE
+KH-2.54PH180-1X2P-L11.5
+DESCRIPTION
+Pin Structure:1x2P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:2P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Component Kind
+Standard
+LCSC Part Name
+1x2P 间距:2.54mm 方针 直插
+Supplier Part
+C2905434
+Manufacturer
+kinghelm(金航标)
+Manufacturer Part
+KH-2.54PH180-1X2P-L11.5
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/KH-2.54PH180-1X2P-L11.5/3175222.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR2.54-M-LI-1X2P
+Pin Structure
+1x2P
+Pitch
+2.54mm
+Row Spacing
+-
+Circluar Pins/Square Pins
+Pin Header
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Pins
+2P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Length of Mating Pin
+6mm
+Insulation Height
+2.5mm
+Length of End Connection Pin
+3mm
+Contact Material
+-
+Operating Temperature
+-40℃~+105℃
+Color
+Black
+Description
+Pin Structure:1x2P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:2P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Symbol
+KH-2.54PH180-1X2P-L11.5
+Designator
+H18
+Name
+KH-2.54PH180-1X2P-L11.5
+Device
+KH-2.54PH180-1X2P-L11.5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge277
+
+*
+]
+[
+DESIGNATOR
+H19
+FOOTPRINT
+HDR-TH_2P-P2.54-V-M
+PARTTYPE
+KH-2.54PH180-1X2P-L11.5
+DESCRIPTION
+Pin Structure:1x2P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:2P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Component Kind
+Standard
+LCSC Part Name
+1x2P 间距:2.54mm 方针 直插
+Supplier Part
+C2905434
+Manufacturer
+kinghelm(金航标)
+Manufacturer Part
+KH-2.54PH180-1X2P-L11.5
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/KH-2.54PH180-1X2P-L11.5/3175222.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR2.54-M-LI-1X2P
+Pin Structure
+1x2P
+Pitch
+2.54mm
+Row Spacing
+-
+Circluar Pins/Square Pins
+Pin Header
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Pins
+2P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Length of Mating Pin
+6mm
+Insulation Height
+2.5mm
+Length of End Connection Pin
+3mm
+Contact Material
+-
+Operating Temperature
+-40℃~+105℃
+Color
+Black
+Description
+Pin Structure:1x2P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:2P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Symbol
+KH-2.54PH180-1X2P-L11.5
+Designator
+H19
+Name
+KH-2.54PH180-1X2P-L11.5
+Device
+KH-2.54PH180-1X2P-L11.5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge277_1
+
+*
+]
+[
+DESIGNATOR
+H20
+FOOTPRINT
+HDR-TH_2P-P2.54-V-M
+PARTTYPE
+KH-2.54PH180-1X2P-L11.5
+DESCRIPTION
+Pin Structure:1x2P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:2P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Component Kind
+Standard
+LCSC Part Name
+1x2P 间距:2.54mm 方针 直插
+Supplier Part
+C2905434
+Manufacturer
+kinghelm(金航标)
+Manufacturer Part
+KH-2.54PH180-1X2P-L11.5
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/KH-2.54PH180-1X2P-L11.5/3175222.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR2.54-M-LI-1X2P
+Pin Structure
+1x2P
+Pitch
+2.54mm
+Row Spacing
+-
+Circluar Pins/Square Pins
+Pin Header
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Pins
+2P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Length of Mating Pin
+6mm
+Insulation Height
+2.5mm
+Length of End Connection Pin
+3mm
+Contact Material
+-
+Operating Temperature
+-40℃~+105℃
+Color
+Black
+Description
+Pin Structure:1x2P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:2P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Symbol
+KH-2.54PH180-1X2P-L11.5
+Designator
+H20
+Name
+KH-2.54PH180-1X2P-L11.5
+Device
+KH-2.54PH180-1X2P-L11.5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge277_2
+
+*
+]
+[
+DESIGNATOR
+H21
+FOOTPRINT
+HDR-TH_3P-P2.54-V-M
+PARTTYPE
+KH-2.54PH180-1X3P-L11.5
+DESCRIPTION
+Pin Structure:1x3P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:3P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Component Kind
+Standard
+LCSC Part Name
+1x3P 间距:2.54mm 方针 直插
+Supplier Part
+C2932698
+Manufacturer
+kinghelm(金航标)
+Manufacturer Part
+KH-2.54PH180-1X3P-L11.5
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/KH-2.54PH180-1X3P-L11.5/3278219.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR-TH_3P-P2.54-M-LI-1X3P
+Pin Structure
+1x3P
+Pitch
+2.54mm
+Row Spacing
+-
+Circluar Pins/Square Pins
+Pin Header
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Pins
+3P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Length of Mating Pin
+6mm
+Insulation Height
+2.5mm
+Length of End Connection Pin
+3mm
+Operating Temperature
+-40℃~+105℃
+Color
+Black
+Description
+Pin Structure:1x3P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:3P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Symbol
+KH-2.54PH180-1X3P-L11.5
+Designator
+H21
+Name
+KH-2.54PH180-1X3P-L11.5
+Device
+KH-2.54PH180-1X3P-L11.5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge273_1
+
+*
+]
+[
+DESIGNATOR
+H22
+FOOTPRINT
+HDR-TH_3P-P2.54-V-M
+PARTTYPE
+KH-2.54PH180-1X3P-L11.5
+DESCRIPTION
+Pin Structure:1x3P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:3P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Component Kind
+Standard
+LCSC Part Name
+1x3P 间距:2.54mm 方针 直插
+Supplier Part
+C2932698
+Manufacturer
+kinghelm(金航标)
+Manufacturer Part
+KH-2.54PH180-1X3P-L11.5
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/KH-2.54PH180-1X3P-L11.5/3278219.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR-TH_3P-P2.54-M-LI-1X3P
+Pin Structure
+1x3P
+Pitch
+2.54mm
+Row Spacing
+-
+Circluar Pins/Square Pins
+Pin Header
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Pins
+3P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Length of Mating Pin
+6mm
+Insulation Height
+2.5mm
+Length of End Connection Pin
+3mm
+Operating Temperature
+-40℃~+105℃
+Color
+Black
+Description
+Pin Structure:1x3P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:3P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Symbol
+KH-2.54PH180-1X3P-L11.5
+Designator
+H22
+Name
+KH-2.54PH180-1X3P-L11.5
+Device
+KH-2.54PH180-1X3P-L11.5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge273_2
+
+*
+]
+[
+DESIGNATOR
+H23
+FOOTPRINT
+HDR-TH_3P-P2.54-V-M
+PARTTYPE
+KH-2.54PH180-1X3P-L11.5
+DESCRIPTION
+Pin Structure:1x3P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:3P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Component Kind
+Standard
+LCSC Part Name
+1x3P 间距:2.54mm 方针 直插
+Supplier Part
+C2932698
+Manufacturer
+kinghelm(金航标)
+Manufacturer Part
+KH-2.54PH180-1X3P-L11.5
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/KH-2.54PH180-1X3P-L11.5/3278219.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR-TH_3P-P2.54-M-LI-1X3P
+Pin Structure
+1x3P
+Pitch
+2.54mm
+Row Spacing
+-
+Circluar Pins/Square Pins
+Pin Header
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Pins
+3P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Length of Mating Pin
+6mm
+Insulation Height
+2.5mm
+Length of End Connection Pin
+3mm
+Operating Temperature
+-40℃~+105℃
+Color
+Black
+Description
+Pin Structure:1x3P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:3P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Symbol
+KH-2.54PH180-1X3P-L11.5
+Designator
+H23
+Name
+KH-2.54PH180-1X3P-L11.5
+Device
+KH-2.54PH180-1X3P-L11.5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge273_3
+
+*
+]
+[
+DESIGNATOR
+H24
+FOOTPRINT
+HDR-TH_5P-P2.54-V-M
+PARTTYPE
+KH-2.54PH180-1X5P-L11.5
+DESCRIPTION
+Pin Structure:1x5P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:5P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Component Kind
+Standard
+LCSC Part Name
+1x5P 间距:2.54mm 方针 直插
+Supplier Part
+C2932699
+Manufacturer
+kinghelm(金航标)
+Manufacturer Part
+KH-2.54PH180-1X5P-L11.5
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/KH-2.54PH180-1X5P-L11.5/3278220.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR-TH_5P-P2.54-M-LI-1X5P
+Pin Structure
+1x5P
+Pitch
+2.54mm
+Row Spacing
+-
+Circluar Pins/Square Pins
+Pin Header
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Pins
+5P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Length of Mating Pin
+6mm
+Insulation Height
+2.5mm
+Length of End Connection Pin
+3mm
+Operating Temperature
+-40℃~+105℃
+Color
+Black
+Description
+Pin Structure:1x5P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:5P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Symbol
+KH-2.54PH180-1X5P-L11.5
+Designator
+H24
+Name
+KH-2.54PH180-1X5P-L11.5
+Device
+KH-2.54PH180-1X5P-L11.5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge263_1
+
+*
+]
+[
+DESIGNATOR
+H26
+FOOTPRINT
+HDR-TH_5P-P2.54-V-M
+PARTTYPE
+KH-2.54PH180-1X5P-L11.5
+DESCRIPTION
+Pin Structure:1x5P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:5P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Component Kind
+Standard
+LCSC Part Name
+1x5P 间距:2.54mm 方针 直插
+Supplier Part
+C2932699
+Manufacturer
+kinghelm(金航标)
+Manufacturer Part
+KH-2.54PH180-1X5P-L11.5
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/KH-2.54PH180-1X5P-L11.5/3278220.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR-TH_5P-P2.54-M-LI-1X5P
+Pin Structure
+1x5P
+Pitch
+2.54mm
+Row Spacing
+-
+Circluar Pins/Square Pins
+Pin Header
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Pins
+5P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Length of Mating Pin
+6mm
+Insulation Height
+2.5mm
+Length of End Connection Pin
+3mm
+Operating Temperature
+-40℃~+105℃
+Color
+Black
+Description
+Pin Structure:1x5P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:5P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Symbol
+KH-2.54PH180-1X5P-L11.5
+Designator
+H26
+Name
+KH-2.54PH180-1X5P-L11.5
+Device
+KH-2.54PH180-1X5P-L11.5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge263_3
+
+*
+]
+[
+DESIGNATOR
+H29
+FOOTPRINT
+HDR-TH_5P-P2.54-V-M
+PARTTYPE
+KH-2.54PH180-1X5P-L11.5
+DESCRIPTION
+Pin Structure:1x5P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:5P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Component Kind
+Standard
+LCSC Part Name
+1x5P 间距:2.54mm 方针 直插
+Supplier Part
+C2932699
+Manufacturer
+kinghelm(金航标)
+Manufacturer Part
+KH-2.54PH180-1X5P-L11.5
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/KH-2.54PH180-1X5P-L11.5/3278220.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR-TH_5P-P2.54-M-LI-1X5P
+Pin Structure
+1x5P
+Pitch
+2.54mm
+Row Spacing
+-
+Circluar Pins/Square Pins
+Pin Header
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Pins
+5P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Length of Mating Pin
+6mm
+Insulation Height
+2.5mm
+Length of End Connection Pin
+3mm
+Operating Temperature
+-40℃~+105℃
+Color
+Black
+Description
+Pin Structure:1x5P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:5P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Symbol
+KH-2.54PH180-1X5P-L11.5
+Designator
+H29
+Name
+KH-2.54PH180-1X5P-L11.5
+Device
+KH-2.54PH180-1X5P-L11.5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge263_6
+
+*
+]
+[
+DESIGNATOR
+H30
+FOOTPRINT
+HDR-TH_5P-P2.54-V-M
+PARTTYPE
+KH-2.54PH180-1X5P-L11.5
+DESCRIPTION
+Pin Structure:1x5P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:5P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Component Kind
+Standard
+LCSC Part Name
+1x5P 间距:2.54mm 方针 直插
+Supplier Part
+C2932699
+Manufacturer
+kinghelm(金航标)
+Manufacturer Part
+KH-2.54PH180-1X5P-L11.5
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/KH-2.54PH180-1X5P-L11.5/3278220.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR-TH_5P-P2.54-M-LI-1X5P
+Pin Structure
+1x5P
+Pitch
+2.54mm
+Row Spacing
+-
+Circluar Pins/Square Pins
+Pin Header
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Pins
+5P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Length of Mating Pin
+6mm
+Insulation Height
+2.5mm
+Length of End Connection Pin
+3mm
+Operating Temperature
+-40℃~+105℃
+Color
+Black
+Description
+Pin Structure:1x5P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:5P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Symbol
+KH-2.54PH180-1X5P-L11.5
+Designator
+H30
+Name
+KH-2.54PH180-1X5P-L11.5
+Device
+KH-2.54PH180-1X5P-L11.5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge263_7
+
+*
+]
+[
+DESIGNATOR
+H9
+FOOTPRINT
+HDR-TH_5P-P2.54-V-M
+PARTTYPE
+KH-2.54PH180-1X5P-L11.5
+DESCRIPTION
+Pin Structure:1x5P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:5P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Component Kind
+Standard
+LCSC Part Name
+1x5P 间距:2.54mm 方针 直插
+Supplier Part
+C2932699
+Manufacturer
+kinghelm(金航标)
+Manufacturer Part
+KH-2.54PH180-1X5P-L11.5
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/KH-2.54PH180-1X5P-L11.5/3278220.html
+Supplier
+LCSC
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR-TH_5P-P2.54-M-LI-1X5P
+Pin Structure
+1x5P
+Pitch
+2.54mm
+Row Spacing
+-
+Circluar Pins/Square Pins
+Pin Header
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Pins
+5P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Length of Mating Pin
+6mm
+Insulation Height
+2.5mm
+Length of End Connection Pin
+3mm
+Operating Temperature
+-40℃~+105℃
+Color
+Black
+Description
+Pin Structure:1x5P Pitch:2.54mm Row Spacing:- Circluar Pins/Square Pins:Pin Header Mounting Type:Through Hole Number of Rows:1 Number of Pins:5P Current Rating:3A Voltage Rating (Max):- Length of Mating Pin:6mm Insulation Height:2.5mm Length of End Connec
+Symbol
+KH-2.54PH180-1X5P-L11.5
+Designator
+H9
+Name
+KH-2.54PH180-1X5P-L11.5
+Device
+KH-2.54PH180-1X5P-L11.5
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge268
+
+*
+]
+[
+DESIGNATOR
+H33
+FOOTPRINT
+HDR-TH_40P-P2.54-V-F-3
+PARTTYPE
+2.54-1*40P圆母
+DESCRIPTION
+Holes Structure:1x40P Pitch:2.54mm Row Spacing:- Circular Hole / Square Hole:Square Hole Mounting Type:Through Hole Number of Rows:1 Number of Positions:40P Current Rating:3A Holes Direction:Top Insulation Height:3mm Contact Material:Brass Contact Plating
+Component Kind
+Standard
+Supplier
+LCSC
+Supplier Part
+C9811
+Manufacturer
+BOOMELE(博穆精密)
+Manufacturer Part
+2.54-1*40P圆母
+JLCPCB Part Class
+Extended Part
+LCSC Part Name
+1x40P 间距:2.54mm 直插
+Supplier Footprint
+插件,P=2.54mm
+Datasheet
+https://item.szlcsc.com/datasheet/2.54-1*40P%25E5%259C%2586%25E6%25AF%258D/10341.html
+Add into BOM
+yes
+Convert to PCB
+yes
+3D Model Title
+HDR-TH_40P-P2.54-V-F-3
+Holes Structure
+1x40P
+Pitch
+2.54mm
+Row Spacing
+-
+Circular Hole / Square Hole
+Square Hole
+Mounting Type
+Through Hole
+Number of Rows
+1
+Number of Positions
+40P
+Current Rating
+3A
+Holes Direction
+Top
+Insulation Height
+3mm
+Contact Material
+Brass
+Contact Plating
+Gold
+Operating Temperature
+-55℃~+105℃
+PIN Length
+4.5mm
+Description
+Holes Structure:1x40P Pitch:2.54mm Row Spacing:- Circular Hole / Square Hole:Square Hole Mounting Type:Through Hole Number of Rows:1 Number of Positions:40P Current Rating:3A Holes Direction:Top Insulation Height:3mm Contact Material:Brass Contact Plating
+Symbol
+2.54-1*40PCircular busbar
+Designator
+H33
+Name
+2.54-1*40P圆母
+Device
+2.54-1*40P圆母
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Unique ID
+gge278
+
+*
+]
+(
+DG5 
+U39-1 CD4028BM/TR-4 Passive 
+H19-2 KH-2.54PH180-1X2P-L11.5-2 Passive 
+)
+(
+DG3 
+U39-2 CD4028BM/TR-2 Passive 
+H18-2 KH-2.54PH180-1X2P-L11.5-2 Passive 
+)
+(
+DG1 
+U39-3 CD4028BM/TR-0 Passive 
+H9-1 KH-2.54PH180-1X5P-L11.5-1 Passive 
+)
+(
+DG8 
+U39-4 CD4028BM/TR-7 Passive 
+H23-1 KH-2.54PH180-1X3P-L11.5-1 Passive 
+)
+(
+DG6 
+U39-6 CD4028BM/TR-5 Passive 
+H22-1 KH-2.54PH180-1X3P-L11.5-1 Passive 
+)
+(
+DG7 
+U39-7 CD4028BM/TR-6 Passive 
+H20-2 KH-2.54PH180-1X2P-L11.5-2 Passive 
+)
+(
+GND 
+U39-8 CD4028BM/TR-VSS Passive 
+U39-11 CD4028BM/TR-D Passive 
+U33-12 LM339DR-VCC- Passive 
+R74-1 0805W8F1002T5E-1 Input   
+U32-12 LM339DR-VCC- Passive 
+Q6-1 2N3904S-RTK/PS-E Passive 
+U28-1 NE555DR-GND Passive 
+C11-2 118EC457-2 Passive 
+C10-2 EEEFT1E220AR-2 Input   
+C9-1 CL21B103KBANNNC-1 Input   
+C14-1 100n-1 Passive 
+U26-2 860010674014-- Passive 
+Q1-1 2N3904S-RTK/PS-E Passive 
+R9-1 0805W8F1002T5E-1 Input   
+R11-1 0805W8F1002T5E-1 Input   
+R5-1 0805W8F1002T5E-1 Input   
+Q2-1 2N3904S-RTK/PS-E Passive 
+R7-2 0805W8F1002T5E-2 Input   
+R8-2 0805W8F1002T5E-2 Input   
+R4-1 0805W8F1002T5E-1 Input   
+C4-2 100n-2 Passive 
+C3-2 100n-2 Passive 
+C5-1 100n-1 Passive 
+U2-8 CD4510BPWR-VSS Passive 
+U2-5 CD4510BPWR-CARRY_IN# Passive 
+C20-2 118EC457-2 Passive 
+C18-1 100n-1 Passive 
+C24-1 118EC457-1 Passive 
+C17-1 100n-1 Passive 
+C16-1 100n-1 Passive 
+C15-1 100n-1 Passive 
+P4-3 IDC Box 2.54mm 2X5P-3 Passive 
+P4-4 IDC Box 2.54mm 2X5P-4 Passive 
+P4-5 IDC Box 2.54mm 2X5P-5 Passive 
+P4-6 IDC Box 2.54mm 2X5P-6 Passive 
+P4-7 IDC Box 2.54mm 2X5P-7 Passive 
+P4-8 IDC Box 2.54mm 2X5P-8 Passive 
+H8-4 KH-2.54PH180-1X5P-L11.5-4 Passive 
+H14-3 KH-2.54PH180-1X3P-L11.5-3 Passive 
+H21-3 KH-2.54PH180-1X3P-L11.5-3 Passive 
+H22-3 KH-2.54PH180-1X3P-L11.5-3 Passive 
+H23-3 KH-2.54PH180-1X3P-L11.5-3 Passive 
+H29-3 KH-2.54PH180-1X5P-L11.5-3 Passive 
+H30-2 KH-2.54PH180-1X5P-L11.5-2 Passive 
+H9-4 KH-2.54PH180-1X5P-L11.5-4 Passive 
+H9-5 KH-2.54PH180-1X5P-L11.5-5 Passive 
+H33-1 2.54-1*40P圆母-1 Input   
+H33-2 2.54-1*40P圆母-2 Input   
+H33-3 2.54-1*40P圆母-3 Input   
+H33-4 2.54-1*40P圆母-4 Input   
+H33-5 2.54-1*40P圆母-5 Input   
+H33-6 2.54-1*40P圆母-6 Input   
+H33-8 2.54-1*40P圆母-8 Input   
+H33-10 2.54-1*40P圆母-10 Input   
+H33-12 2.54-1*40P圆母-12 Input   
+H33-14 2.54-1*40P圆母-14 Input   
+H33-16 2.54-1*40P圆母-16 Input   
+H33-18 2.54-1*40P圆母-18 Input   
+H33-20 2.54-1*40P圆母-20 Input   
+H33-21 2.54-1*40P圆母-21 Input   
+H33-22 2.54-1*40P圆母-22 Input   
+H33-25 2.54-1*40P圆母-25 Input   
+H33-26 2.54-1*40P圆母-26 Input   
+H33-28 2.54-1*40P圆母-28 Input   
+H33-29 2.54-1*40P圆母-29 Input   
+H33-30 2.54-1*40P圆母-30 Input   
+H33-31 2.54-1*40P圆母-31 Input   
+H33-32 2.54-1*40P圆母-32 Input   
+H33-34 2.54-1*40P圆母-34 Input   
+H33-36 2.54-1*40P圆母-36 Input   
+H33-38 2.54-1*40P圆母-38 Input   
+H33-40 2.54-1*40P圆母-40 Input   
+)
+(
+Q1 
+U39-10 CD4028BM/TR-A Passive 
+U2-6 CD4510BPWR-Q1 Passive 
+H33-35 2.54-1*40P圆母-35 Input   
+)
+(
+Q3 
+U39-12 CD4028BM/TR-C Passive 
+R10-2 0805W8F1002T5E-2 Input   
+R2-1 0805W8F1001T5E-1 Input   
+U2-14 CD4510BPWR-Q3 Passive 
+)
+(
+Q2 
+U39-13 CD4028BM/TR-B Passive 
+U2-11 CD4510BPWR-Q2 Passive 
+H33-33 2.54-1*40P圆母-33 Input   
+)
+(
+DG2 
+U39-14 CD4028BM/TR-1 Passive 
+H14-1 KH-2.54PH180-1X3P-L11.5-1 Passive 
+)
+(
+DG4 
+U39-15 CD4028BM/TR-3 Passive 
+H21-1 KH-2.54PH180-1X3P-L11.5-1 Passive 
+)
+(
+VCC 
+U39-16 CD4028BM/TR-VDD Passive 
+U33-3 LM339DR-VCC+ Passive 
+U32-3 LM339DR-VCC+ Passive 
+R55-2 0805W8F1002T5E-2 Input   
+R54-1 0805W8F1002T5E-1 Input   
+R56-2 0805W8F1002T5E-2 Input   
+R52-2 0805W8F1002T5E-2 Input   
+R53-2 0805W8F1002T5E-2 Input   
+R50-1 0805W8F1002T5E-1 Input   
+R51-1 0805W8F1002T5E-1 Input   
+R63-2 0805W8F1002T5E-2 Input   
+R64-2 0805W8F1002T5E-2 Input   
+R61-1 0805W8F1002T5E-1 Input   
+R62-1 0805W8F1002T5E-1 Input   
+R37-2 0805W8F1000T5E_C17408-2 Input   
+R39-2 0805W8F1002T5E-2 Input   
+R3-2 0805W8F1001T5E-2 Input   
+R18-2 0805W8F1001T5E-2 Input   
+U2-16 CD4510BPWR-VDD Passive 
+C20-1 118EC457-1 Passive 
+C18-2 100n-2 Passive 
+C17-2 100n-2 Passive 
+C16-2 100n-2 Passive 
+C15-2 100n-2 Passive 
+R48-1 0805W8F100JT5E-1 Input   
+H4-2 KH-2.54PH180-1X5P-L11.5-2 Passive 
+H29-2 KH-2.54PH180-1X5P-L11.5-2 Passive 
+H33-13 2.54-1*40P圆母-13 Input   
+H33-19 2.54-1*40P圆母-19 Input   
+)
+(
+CP1 
+U33-1 LM339DR-OUT1 Passive 
+D42-2 1N4148W_C81598-A Passive 
+R61-2 0805W8F1002T5E-2 Input   
+H9-2 KH-2.54PH180-1X5P-L11.5-2 Passive 
+)
+(
+CP2 
+U33-2 LM339DR-OUT2 Passive 
+D50-2 1N4148W_C81598-A Passive 
+R62-2 0805W8F1002T5E-2 Input   
+H29-1 KH-2.54PH180-1X5P-L11.5-1 Passive 
+)
+(
+SQLEN 
+U33-4 LM339DR-IN2- Passive 
+U33-6 LM339DR-IN1- Passive 
+U33-8 LM339DR-IN3- Passive 
+U33-10 LM339DR-IN4- Passive 
+U32-4 LM339DR-IN2- Passive 
+U32-6 LM339DR-IN1- Passive 
+U32-8 LM339DR-IN3- Passive 
+U32-10 LM339DR-IN4- Passive 
+H33-39 2.54-1*40P圆母-39 Input   
+)
+(
+2.6V 
+U33-5 LM339DR-IN2+ Passive 
+R71-1 0805W8F1002T5E-1 Input   
+R73-1 0805W8F1002T5E-1 Input   
+)
+(
+1.3V 
+U33-7 LM339DR-IN1+ Passive 
+R73-2 0805W8F1002T5E-2 Input   
+R74-2 0805W8F1002T5E-2 Input   
+)
+(
+4V 
+U33-9 LM339DR-IN3+ Passive 
+R69-2 0805W8F1002T5E-2 Input   
+R71-2 0805W8F1002T5E-2 Input   
+)
+(
+5.3V 
+U33-11 LM339DR-IN4+ Passive 
+R65-1 0805W8F1002T5E-1 Input   
+R69-1 0805W8F1002T5E-1 Input   
+)
+(
+CP4 
+U33-13 LM339DR-OUT4 Passive 
+D52-2 1N4148W_C81598-A Passive 
+R64-1 0805W8F1002T5E-1 Input   
+H26-2 KH-2.54PH180-1X5P-L11.5-2 Passive 
+)
+(
+CP3 
+U33-14 LM339DR-OUT3 Passive 
+D39-2 1N4148W_C81598-A Passive 
+R63-1 0805W8F1002T5E-1 Input   
+H26-1 KH-2.54PH180-1X5P-L11.5-1 Passive 
+)
+(
+9.3V 
+R57-2 0805W8F1002T5E-2 Input   
+R59-2 0805W8F1002T5E-2 Input   
+U32-9 LM339DR-IN3+ Passive 
+)
+(
+10.6V 
+R57-1 0805W8F1002T5E-1 Input   
+U32-11 LM339DR-IN4+ Passive 
+R55-1 0805W8F1002T5E-1 Input   
+)
+(
+8V 
+R59-1 0805W8F1002T5E-1 Input   
+R60-1 0805W8F1002T5E-1 Input   
+U32-5 LM339DR-IN2+ Passive 
+)
+(
+6.6V 
+R60-2 0805W8F1002T5E-2 Input   
+R65-2 0805W8F1002T5E-2 Input   
+U32-7 LM339DR-IN1+ Passive 
+)
+(
+CP5 
+U32-1 LM339DR-OUT1 Passive 
+D37-2 1N4148W_C81598-A Passive 
+R50-2 0805W8F1002T5E-2 Input   
+H24-3 KH-2.54PH180-1X5P-L11.5-3 Passive 
+)
+(
+CP6 
+U32-2 LM339DR-OUT2 Passive 
+D46-2 1N4148W_C81598-A Passive 
+R51-2 0805W8F1002T5E-2 Input   
+H24-2 KH-2.54PH180-1X5P-L11.5-2 Passive 
+)
+(
+CP8 
+U32-13 LM339DR-OUT4 Passive 
+D44-2 1N4148W_C81598-A Passive 
+R53-1 0805W8F1002T5E-1 Input   
+H4-1 KH-2.54PH180-1X5P-L11.5-1 Passive 
+)
+(
+CP7 
+U32-14 LM339DR-OUT3 Passive 
+D48-2 1N4148W_C81598-A Passive 
+R52-1 0805W8F1002T5E-1 Input   
+H24-1 KH-2.54PH180-1X5P-L11.5-1 Passive 
+)
+(
+$1N6221 
+R54-2 0805W8F1002T5E-2 Input   
+R58-2 0805W8F1002T5E-2 Input   
+D52-1 1N4148W_C81598-K Passive 
+D50-1 1N4148W_C81598-K Passive 
+D48-1 1N4148W_C81598-K Passive 
+D46-1 1N4148W_C81598-K Passive 
+D44-1 1N4148W_C81598-K Passive 
+D42-1 1N4148W_C81598-K Passive 
+D39-1 1N4148W_C81598-K Passive 
+D37-1 1N4148W_C81598-K Passive 
+)
+(
+$1N6234 
+Q6-2 2N3904S-RTK/PS-B Passive 
+R58-1 0805W8F1002T5E-1 Input   
+)
+(
+$1N6237 
+Q6-3 2N3904S-RTK/PS-C Passive 
+R56-1 0805W8F1002T5E-1 Input   
+D41-2 1N4148W_C81598-A Passive 
+)
+(
+RESET 
+D41-1 1N4148W_C81598-K Passive 
+D5-1 1N4148W_C81598-K Passive 
+R4-2 0805W8F1002T5E-2 Input   
+U2-9 CD4510BPWR-RESET Passive 
+H8-1 KH-2.54PH180-1X5P-L11.5-1 Passive 
+)
+(
+555_P3 
+D56-2 1N4148W_C81598-A Passive 
+U28-3 NE555DR-OUT Passive 
+H33-9 2.54-1*40P圆母-9 Input   
+)
+(
+MGC 
+D56-1 1N4148W_C81598-K Passive 
+D73-1 S16-4148E3/TR7-1 Passive 
+D73-2 S16-4148E3/TR7-2 Passive 
+D73-3 S16-4148E3/TR7-3 Passive 
+D73-4 S16-4148E3/TR7-4 Passive 
+D73-5 S16-4148E3/TR7-5 Passive 
+D73-6 S16-4148E3/TR7-6 Passive 
+D73-7 S16-4148E3/TR7-7 Passive 
+D73-8 S16-4148E3/TR7-8 Passive 
+H30-3 KH-2.54PH180-1X5P-L11.5-3 Passive 
+)
+(
+CLK 
+D72-2 1N4148W_C81598-A Passive 
+D71-2 1N4148W_C81598-A Passive 
+D70-2 1N4148W_C81598-A Passive 
+D69-2 1N4148W_C81598-A Passive 
+D68-2 1N4148W_C81598-A Passive 
+D67-2 1N4148W_C81598-A Passive 
+D66-2 1N4148W_C81598-A Passive 
+D65-2 1N4148W_C81598-A Passive 
+D55-1 1N4148W_C81598-K Passive 
+U2-15 CD4510BPWR-CLK Passive 
+H33-15 2.54-1*40P圆母-15 Input   
+)
+(
+NG8 
+D72-1 1N4148W_C81598-K Passive 
+D73-9 S16-4148E3/TR7-9 Passive 
+H23-2 KH-2.54PH180-1X3P-L11.5-2 Passive 
+)
+(
+NG7 
+D71-1 1N4148W_C81598-K Passive 
+D73-10 S16-4148E3/TR7-10 Passive 
+H20-1 KH-2.54PH180-1X2P-L11.5-1 Passive 
+)
+(
+NG6 
+D70-1 1N4148W_C81598-K Passive 
+D73-11 S16-4148E3/TR7-11 Passive 
+H22-2 KH-2.54PH180-1X3P-L11.5-2 Passive 
+)
+(
+NG5 
+D69-1 1N4148W_C81598-K Passive 
+D73-12 S16-4148E3/TR7-12 Passive 
+H19-1 KH-2.54PH180-1X2P-L11.5-1 Passive 
+)
+(
+NG4 
+D68-1 1N4148W_C81598-K Passive 
+D73-13 S16-4148E3/TR7-13 Passive 
+H21-2 KH-2.54PH180-1X3P-L11.5-2 Passive 
+)
+(
+NG3 
+D67-1 1N4148W_C81598-K Passive 
+D73-14 S16-4148E3/TR7-14 Passive 
+H18-1 KH-2.54PH180-1X2P-L11.5-1 Passive 
+)
+(
+NG2 
+D66-1 1N4148W_C81598-K Passive 
+D73-15 S16-4148E3/TR7-15 Passive 
+H14-2 KH-2.54PH180-1X3P-L11.5-2 Passive 
+)
+(
+NG1 
+D65-1 1N4148W_C81598-K Passive 
+D73-16 S16-4148E3/TR7-16 Passive 
+H9-3 KH-2.54PH180-1X5P-L11.5-3 Passive 
+)
+(
+$1N8037 
+U28-8 NE555DR-VCC Passive 
+R37-1 0805W8F1000T5E_C17408-1 Input   
+C14-2 100n-2 Passive 
+U26-1 860010674014-+ Passive 
+)
+(
+DC 
+U28-7 NE555DR-DISCH Passive 
+R39-1 0805W8F1002T5E-1 Input   
+H33-17 2.54-1*40P圆母-17 Input   
+)
+(
+TT 
+U28-6 NE555DR-THRES Passive 
+U28-2 NE555DR-TRIG Passive 
+C11-1 118EC457-1 Passive 
+C10-1 EEEFT1E220AR-1 Input   
+H33-7 2.54-1*40P圆母-7 Input   
+H33-27 2.54-1*40P圆母-27 Input   
+)
+(
+$1N7801 
+U28-5 NE555DR-CONT Passive 
+C9-2 CL21B103KBANNNC-2 Input   
+)
+(
+555_RST 
+U28-4 NE555DR-RST Passive 
+H33-11 2.54-1*40P圆母-11 Input   
+)
+(
+SKIPB 
+D55-2 1N4148W_C81598-A Passive 
+H8-5 KH-2.54PH180-1X5P-L11.5-5 Passive 
+)
+(
+$1N9368 
+R10-1 0805W8F1002T5E-1 Input   
+Q1-2 2N3904S-RTK/PS-B Passive 
+)
+(
+Q3' 
+Q1-3 2N3904S-RTK/PS-C Passive 
+R3-1 0805W8F1001T5E-1 Input   
+C4-1 100n-1 Passive 
+C3-1 100n-1 Passive 
+H30-4 KH-2.54PH180-1X5P-L11.5-4 Passive 
+H33-23 2.54-1*40P圆母-23 Input   
+)
+(
+$1N9365 
+D5-2 1N4148W_C81598-A Passive 
+U2-2 CD4510BPWR-Q4 Passive 
+)
+(
+P3 
+R9-2 0805W8F1002T5E-2 Input   
+D8-1 1N4148W_C81598-K Passive 
+U2-13 CD4510BPWR-P3 Passive 
+H8-3 KH-2.54PH180-1X5P-L11.5-3 Passive 
+H24-5 KH-2.54PH180-1X5P-L11.5-5 Passive 
+)
+(
+P2 
+R11-2 0805W8F1002T5E-2 Input   
+D7-1 1N4148W_C81598-K Passive 
+U2-12 CD4510BPWR-P2 Passive 
+H4-3 KH-2.54PH180-1X5P-L11.5-3 Passive 
+H8-2 KH-2.54PH180-1X5P-L11.5-2 Passive 
+H26-4 KH-2.54PH180-1X5P-L11.5-4 Passive 
+)
+(
+Q3O 
+R2-2 0805W8F1001T5E-2 Input   
+H33-37 2.54-1*40P圆母-37 Input   
+)
+(
+PREEN 
+R5-2 0805W8F1002T5E-2 Input   
+D9-1 1N4148W_C81598-K Passive 
+U2-1 CD4510BPWR-PRE/EN Passive 
+H4-5 KH-2.54PH180-1X5P-L11.5-5 Passive 
+H26-5 KH-2.54PH180-1X5P-L11.5-5 Passive 
+H29-4 KH-2.54PH180-1X5P-L11.5-4 Passive 
+)
+(
+$1N9379 
+R18-1 0805W8F1001T5E-1 Input   
+Q2-3 2N3904S-RTK/PS-C Passive 
+D6-2 1N4148W_C81598-A Passive 
+D9-2 1N4148W_C81598-A Passive 
+D8-2 1N4148W_C81598-A Passive 
+D7-2 1N4148W_C81598-A Passive 
+)
+(
+$1N9384 
+Q2-2 2N3904S-RTK/PS-B Passive 
+R20-1 0805W8F1002T5E-1 Input   
+)
+(
+$1N9366 
+R20-2 0805W8F1002T5E-2 Input   
+U2-7 CD4510BPWR-CARRY_OUT# Passive 
+)
+(
+P4 
+R7-1 0805W8F1002T5E-1 Input   
+U2-3 CD4510BPWR-P4 Passive 
+)
+(
+P1 
+R8-1 0805W8F1002T5E-1 Input   
+D6-1 1N4148W_C81598-K Passive 
+U2-4 CD4510BPWR-P1 Passive 
+H4-4 KH-2.54PH180-1X5P-L11.5-4 Passive 
+H24-4 KH-2.54PH180-1X5P-L11.5-4 Passive 
+H26-3 KH-2.54PH180-1X5P-L11.5-3 Passive 
+H29-5 KH-2.54PH180-1X5P-L11.5-5 Passive 
+)
+(
+DIR 
+C5-2 100n-2 Passive 
+U2-10 CD4510BPWR-UP/DOWN Passive 
+H30-1 KH-2.54PH180-1X5P-L11.5-1 Passive 
+)
+(
+VEE 
+C24-2 118EC457-2 Passive 
+R49-1 0805W8F100JT5E-1 Input   
+H33-24 2.54-1*40P圆母-24 Input   
+)
+(
+$1N9924 
+P4-1 IDC Box 2.54mm 2X5P-1 Passive 
+P4-2 IDC Box 2.54mm 2X5P-2 Passive 
+R49-2 0805W8F100JT5E-2 Input   
+)
+(
+$1N10056 
+P4-9 IDC Box 2.54mm 2X5P-9 Passive 
+P4-10 IDC Box 2.54mm 2X5P-10 Passive 
+R48-2 0805W8F100JT5E-2 Input   
+)
+(
+MUTEOFF 
+H30-5 KH-2.54PH180-1X5P-L11.5-5 Passive 
+)
