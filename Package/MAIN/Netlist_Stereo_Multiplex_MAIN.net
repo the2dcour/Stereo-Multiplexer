@@ -20119,7 +20119,7 @@ R49-1 0805W8F100JT5E-1 Input
 C22-2 100n-2 Passive 
 C24-2 118EC457-2 Passive 
 C23-2 100n-2 Passive 
-H33-24 2.54-1*40P圆母-24 Input   
+H33-23 2.54-1*40P圆母-23 Input   
 )
 (
 $1N6895 
@@ -20552,7 +20552,7 @@ C4-1 100n-1 Passive
 C3-1 100n-1 Passive 
 U18-2 MAX309ESE+T-EN Passive 
 H30-4 KH-2.54PH180-1X5P-L11.5-4 Passive 
-H33-23 2.54-1*40P圆母-23 Input   
+H33-24 2.54-1*40P圆母-24 Input   
 )
 (
 $1N10838 
