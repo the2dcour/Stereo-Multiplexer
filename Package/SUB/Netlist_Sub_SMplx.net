@@ -7239,7 +7239,7 @@ R3-1 0805W8F1001T5E-1 Input
 C4-1 100n-1 Passive 
 C3-1 100n-1 Passive 
 H30-4 KH-2.54PH180-1X5P-L11.5-4 Passive 
-H33-23 2.54-1*40P圆母-23 Input   
+H33-24 2.54-1*40P圆母-24 Input   
 )
 (
 $1N9365 
@@ -7321,7 +7321,7 @@ H30-1 KH-2.54PH180-1X5P-L11.5-1 Passive
 VEE 
 C24-2 118EC457-2 Passive 
 R49-1 0805W8F100JT5E-1 Input   
-H33-24 2.54-1*40P圆母-24 Input   
+H33-23 2.54-1*40P圆母-23 Input   
 )
 (
 $1N9924 
